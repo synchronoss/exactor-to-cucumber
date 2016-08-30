@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/exactor-to-cucumber.iml" filepath="$PROJECT_DIR$/.idea/modules/exactor-to-cucumber.iml" />
       <module fileurl="file://$PROJECT_DIR$/exactor-to-cucumber-github.iml" filepath="$PROJECT_DIR$/exactor-to-cucumber-github.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/exactor-to-cucumber_main.iml" filepath="$PROJECT_DIR$/.idea/modules/exactor-to-cucumber_main.iml" group="exactor-to-cucumber" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/exactor-to-cucumber_test.iml" filepath="$PROJECT_DIR$/.idea/modules/exactor-to-cucumber_test.iml" group="exactor-to-cucumber" />
     </modules>
   </component>
 </project>
